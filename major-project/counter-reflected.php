@@ -1,5 +1,6 @@
 <!-- actual form -->
 <!DOCTYPE HTML>
+<html>
     <form method="get" action="<?php $_SERVER["PHP_SELF"] ?>">
         Item name: <input type="text" name="name"><br>
         <input type="submit">
