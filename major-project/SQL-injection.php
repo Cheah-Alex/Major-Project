@@ -8,6 +8,7 @@ $conn = new mysqli($server, $user, $pwd, $db);
 ?>
 <!DOCTYPE HTML>
 
+<html>
 <!-- render form -->
 <form method="post" action="<?php $_SERVER["PHP_SELF"] ?>">
 Item name: <input type="text" name="name"><br>
