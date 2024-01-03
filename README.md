@@ -4,7 +4,7 @@ To be used with powerpoint slides (not included in the repo) and XAMPP. <br>
 [Source available](https://en.wikipedia.org/wiki/Source-available_software) software.
 
 ## Instructions to download and run
-1. Download ZIP file [Instructions](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives)
+1. Download ZIP file [(instructions to do so)](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives)
 2. Install [XAMPP](https://www.apachefriends.org/download.html) and start it
 3. Extract ZIP file to xampp/htdocs
 4. Execute the SQL statements [here](https://github.com/ACheah216/Major-Project/tree/master/sql)
