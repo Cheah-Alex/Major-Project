@@ -7,8 +7,12 @@ To be used with powerpoint slides (not included in the repo) and XAMPP. <br>
 1. Download ZIP file [(instructions to do so)](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives)
 2. Install [XAMPP](https://www.apachefriends.org/download.html) and start it
 3. Extract ZIP file to xampp/htdocs
-4. Execute the SQL statements [here](https://github.com/ACheah216/Major-Project/tree/master/sql)
-5. Enter [http://localhost/](http://localhost/) to the address bar of your browser
+4. Run this SQL statement:
+   ```sql
+   CREATE DATABASE majorprojectdb;
+   ```
+5. Execute the SQL statements [here](https://github.com/ACheah216/Major-Project/tree/master/sql)
+6. Enter [http://localhost/](http://localhost/) to the address bar of your browser
 
 ## Security
 ⚠️ **Do NOT upload to any live Internet-facing servers.** The files are designed to be insecure to demonstrate effects of vulnerabilities. <br>
