@@ -11,7 +11,7 @@ To be used with powerpoint slides (not included in the repo) and XAMPP. <br>
    ```sql
    CREATE DATABASE majorprojectdb;
    ```
-5. Execute the SQL statements [here](https://github.com/ACheah216/Major-Project/tree/master/sql)
+5. Execute the SQL statements [here](https://github.com/ACheah216/Major-Project/tree/master/sql) in majorprojectdb
 6. Add data to both DB tables
 7. Enter [http://localhost/](http://localhost/) to the address bar of your browser
 
