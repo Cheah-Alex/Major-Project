@@ -6,15 +6,16 @@ To be used with powerpoint slides (not included in the repo) and XAMPP. <br>
 ## Instructions to download and run
 1. Download ZIP file [(instructions to do so)](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives)
 2. Install [XAMPP](https://www.apachefriends.org/download.html) and start it <br>
-   [Linux](https://www.apachefriends.org/faq_linux.html) <br> [Windows](https://www.apachefriends.org/faq_windows.html) <br> [Mac OS X](https://www.apachefriends.org/faq_osx.html)
-3. Extract ZIP file to xampp/htdocs
-4. Run this SQL statement:
+   [Linux](https://www.apachefriends.org/faq_linux.html) | [Windows](https://www.apachefriends.org/faq_windows.html) |
+   [Mac OS X](https://www.apachefriends.org/faq_osx.html)
+4. Extract ZIP file to xampp/htdocs
+5. Run this SQL statement:
    ```sql
    CREATE DATABASE majorprojectdb;
    ```
-5. Execute the SQL statements [here](https://github.com/ACheah216/Major-Project/tree/master/sql) in majorprojectdb
-6. Add data to both DB tables
-7. Enter [http://localhost/](http://localhost/) to the address bar of your browser
+6. Execute the SQL statements [here](https://github.com/ACheah216/Major-Project/tree/master/sql) in majorprojectdb
+7. Add data to both DB tables
+8. Enter [http://localhost/](http://localhost/) to the address bar of your browser
 
 ## Security
 ⚠️ **Do NOT upload to any live Internet-facing servers.** The files are designed to be insecure to demonstrate effects of vulnerabilities. <br>
