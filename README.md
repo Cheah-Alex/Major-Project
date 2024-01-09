@@ -6,6 +6,7 @@ To be used with powerpoint slides (not included in the repo) and XAMPP. <br>
 ## Instructions to download and run
 1. Download ZIP file [(instructions to do so)](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives)
 2. Install [XAMPP](https://www.apachefriends.org/download.html) and start it
+   [Linux](https://www.apachefriends.org/faq_linux.html) <br> [Windows](https://www.apachefriends.org/faq_windows.html) <br> [Mac OS X](https://www.apachefriends.org/faq_osx.html)
 3. Extract ZIP file to xampp/htdocs
 4. Run this SQL statement:
    ```sql
