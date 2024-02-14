@@ -15,7 +15,7 @@ To be used with powerpoint slides (not included in the repo) and XAMPP. <br>
    ```
 6. Execute the SQL statements [here](https://github.com/ACheah216/Major-Project/tree/master/sql) in majorprojectdb
 7. Add data to both DB tables
-8. Enter [http://localhost/](http://localhost/) to the address bar of your browser
+8. Enter [http://localhost/](http://localhost/)(whatever you named unzipped folder as) to the address bar of your browser
 
 ## Security
 ⚠️ **Do NOT upload to any live Internet-facing servers.** The files are designed to be insecure to demonstrate effects of vulnerabilities. <br>
